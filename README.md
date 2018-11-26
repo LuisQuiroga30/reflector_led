@@ -62,5 +62,8 @@ void loop() {
 }</textarea></span></p>
 </nav></nav>
 <p>&nbsp;</p>
-<p>Dise&ntilde;o de carcasa</p>
-<p>&nbsp;</p>
+<h2 style="text-align: center;">Dise&ntilde;o de Carcasa</h2>
+<p>Para crear el dise&ntilde;o de la carcasa para nuestro proyecto utilizamos el programa solidwork dise&ntilde;amos las piezas por partes&nbsp; comenzando con la base. Principalmente comenzamos midiendo la baquelita y el arduino y as&iacute; saber la medida &nbsp;que nuestro circuito necesita para estar fijo, la medida de profundidad es de 60 mm, &nbsp;despu&eacute;s calcular la distancia en que colocar&iacute;amos la l&aacute;mpara led y el arduino con una altura de 35 mm para la l&aacute;mpara y al fondo, que son 55 mm colocamos el arduino. Para la mica dise&ntilde;amos dos pesta&ntilde;as haci&eacute;ndolas parecer un riel de 4 mm de altura para insertar la mica de la cual las medidas son de largo 10.5 mm, de ancho 7.5 mm y de grosor de 3 mm, para finalizar las extruimos a 120 mm de largo.</p>
+<p>Despu&eacute;s dise&ntilde;amos las tapas de la carcasa con una longitud que cubriera toda la carcasa de 80 mm&nbsp; de ancho de la parte de superior, 55 mm&nbsp; en la parte inferior y una con una altura de 60 mm&nbsp; y luego lo extruimos con un grosor de 4 mm.</p>
+<p>Para finalizar con todo&nbsp; el dise&ntilde;o creamos al &uacute;ltimo el arco que sostiene la carcasa de la l&aacute;mpara con una longitud de 130 mm, una altura de 70mm y una anchura de 3 mm, para finalizar la extruimos&nbsp; a 20mm.</p>
+<p>&nbsp;Este fue el proceso para crear el dise&ntilde;o de la carcasa que cubre la l&aacute;mpara de led y el arduino.&nbsp;&nbsp;</p>
