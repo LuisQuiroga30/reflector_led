@@ -67,3 +67,4 @@ void loop() {
 <p>Despu&eacute;s dise&ntilde;amos las tapas de la carcasa con una longitud que cubriera toda la carcasa de 80 mm&nbsp; de ancho de la parte de superior, 55 mm&nbsp; en la parte inferior y una con una altura de 60 mm&nbsp; y luego lo extruimos con un grosor de 4 mm.</p>
 <p>Para finalizar con todo&nbsp; el dise&ntilde;o creamos al &uacute;ltimo el arco que sostiene la carcasa de la l&aacute;mpara con una longitud de 130 mm, una altura de 70mm y una anchura de 3 mm, para finalizar la extruimos&nbsp; a 20mm.</p>
 <p>&nbsp;Este fue el proceso para crear el dise&ntilde;o de la carcasa que cubre la l&aacute;mpara de led y el arduino.&nbsp;&nbsp;</p>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/LuisQuiroga30/reflector_led/blob/master/captura%201.PNG?raw=true" alt="" width="50%" /></p>
